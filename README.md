@@ -38,3 +38,11 @@ inventario-riscos-nr1-streamlit/
 ├── modules/                # Regras de negócio e lógica de suporte
 ├── requirements.txt        # Dependências do projeto
 └── README.md               # Documentação oficial
+
+🌐 Consulta On-line
+Aplicação em Produção: Disponível em breve na Streamlit Community Cloud.
+
+👤 Autor
+Desenvolvido por Marcos Silva
+
+Profissional focado em inovação operacional, análise de dados aplicada e transição para a Gestão de Pessoas e SST.
