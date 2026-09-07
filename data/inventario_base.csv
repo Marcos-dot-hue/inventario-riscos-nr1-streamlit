@@ -1,0 +1,8 @@
+Codigo,Item_Descricao,Categoria,Quantidade,Status
+EQ-001,Coletor de Dados Zebra TC26,Equipamento TI,45,Disponível
+EQ-002,Terminal POS / Caixa,Equipamento Operacional,12,Em Uso
+EQ-003,Cadeira Ergonômica Operacional,Mobiliário / AEP,180,Conforme NR-1
+SUP-101,Bobina Térmica 80x40,Suprimento,500,Estoque Adequado
+SUP-102,Etiqueta Térmica Adesiva,Suprimento,1200,Estoque Baixo
+EQ-004,Leitor de Código de Barras Laser,Equipamento TI,30,Disponível
+SUP-103,Bobina para Terminal POS,Suprimento,350,Estoque Adequado
